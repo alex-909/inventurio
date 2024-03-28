@@ -1,0 +1,31 @@
+{
+    "start": {
+        "info": "starting",
+        "content": {
+            "aaa": {
+                "info": "info",
+                "content": {
+                    "w": "base",
+                    "yoo": {
+                        "info": "info",
+                        "content": {
+                            "kiik": "base"
+                        }
+                    },
+                    "asdddad": {
+                        "info": "info",
+                        "content": {}
+                    },
+                    "aa": "base"
+                }
+            },
+            "a": "base",
+            "dawddwa": "base",
+            "awwww": "base",
+            "ddddddd": {
+                "info": "info",
+                "content": {}
+            }
+        }
+    }
+}
